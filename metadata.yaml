@@ -1,10 +1,16 @@
 _repo: Battle-of-the-Crater-and-Experiences-of-Prison-Life_47778
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47778-h/images/cover.jpg
 creator:
   author:
     agent_name: Shearman, Sumner Upham
     gutenberg_agent_id: '44464'
     url: http://www.gutenberg.org/2009/agents/44464
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47778#Battle-of-the-Crater-and-Experiences-of-Prison-Life
 gutenberg_issued: '2014-12-25'
 gutenberg_type: Text
 identifiers:
